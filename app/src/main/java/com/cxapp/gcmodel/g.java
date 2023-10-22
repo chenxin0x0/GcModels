@@ -15,12 +15,12 @@ public class g {
     }
 
     public static void hhh() {
-        String deviceDetails = dd();
-        if (!deviceDetails.equals("Motorola")) {
-            System.exit(0);
-            throw new RuntimeException("api low");
-
-        }
+//        String deviceDetails = dd();
+//        if (!deviceDetails.equals("Motorola")) {
+//            System.exit(0);
+//            throw new RuntimeException("api low");
+//
+//        }
     }
 
     private static String capitalize(String str) {
